@@ -20,5 +20,5 @@ Visualizing in gnuplot:
   1. gnuplot
   2. set term pdfcairo font "Helvetica, 11" size 5,5
   3. set output "example_output.pdf"
-  4. sp 'lorenz_Ra27p34.dat' u 2:3:4:1 w l lt rgb "black" t "Ra = 27.34" t "Ra=27.34"
+  4. sp 'lorenz_Ra27p34.dat' u 2:3:4:1 w l lt rgb "black" t "Ra = 27.34"
   5. set output
